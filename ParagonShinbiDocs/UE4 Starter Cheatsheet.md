@@ -5,19 +5,19 @@ UE4 Starter Cheatsheet
     - Set skeleton mesh -- ParagonShinbi
     - Import Anim Graph from ACFBaseABP
 
-    ![alt text](AnimGraph%20AO%20during%20Switch.PNG)
+    ![alt text](AnimGraph%20AO%20during%20Switch.png)
 
-    ![alt text](AnimGraph%20Additives.PNG)
+    ![alt text](AnimGraph%20Additives.png)
 
-    ![alt text](AnimGraph%20Leaning%20and%20AO.PNG)
+    ![alt text](AnimGraph%20Leaning%20and%20AO.png)
 
-    ![alt text](AnimGraph%20moveset%20switch.PNG)
+    ![alt text](AnimGraph%20moveset%20switch.png)
 
-    ![alt text](AnimGraph%20Riding.PNG)
+    ![alt text](AnimGraph%20Riding.png)
 
-    ![alt text](AnimGraph%20actions%20and%20montages.PNG)
+    ![alt text](AnimGraph%20actions%20and%20montages.png)
 
-    ![alt text](AnimGraph%20IK%20stuff.PNG)
+    ![alt text](AnimGraph%20IK%20stuff.png)
 
 2. Create movement blendspace (>> Animation > BlendSpace)
     - Set horizontal axis name to Direction
@@ -63,7 +63,7 @@ UE4 Starter Cheatsheet
     - Set Jump Loop blendspace to Jump_Apex
     - Set Jump End blendspace to Jump_Land
 
-    ![alt text](Anim%20movesets.PNG)
+    ![alt text](Anim%20movesets.png)
 
 7. Create Player Controller blueprint (>> Blueprints > Blueprint class)
     - Set parent class -- ACFPlayerController
@@ -96,12 +96,12 @@ UE4 Starter Cheatsheet
 11. Set up event graph for Character blueprint -- <created in #4>
     - Keyboard Input
 
-    ![alt text](Keyboard%20Input.PNG)
+    ![alt text](Keyboard%20Input.png)
 
     - Input for sprinting
 
-    ![alt text](Input%20for%20sprinting.PNG)
+    ![alt text](Input%20for%20sprinting.png)
 
     - Input for walking
 
-    ![alt text](Input%20for%20walking.PNG)
+    ![alt text](Input%20for%20walking.png)
